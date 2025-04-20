@@ -6,7 +6,7 @@ Getting Started
 
 2. Clone the forked repository.
 
-git clone https://github.com/HeisenbergS10/ChatStatsPro
+git clone https://github.com/sonalimore6/WhatsAppChatAnalyzer
 
 3. Navigate to the project directory.
 
