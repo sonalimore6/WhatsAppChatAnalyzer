@@ -10,7 +10,7 @@ git clone https://github.com/sonalimore6/WhatsAppChatAnalyzer
 
 3. Navigate to the project directory.
 
-cd ChatStatsPro
+cd WhatsAppChatAnalyzer
 
 4. Create a new branch.
 
