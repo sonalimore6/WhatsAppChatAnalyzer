@@ -42,14 +42,14 @@ def getDataPoint(line):
         Returns:
             date, time, author, message        
     """
-    splitLine = line.split(' - ') # splitLine = ['18/06/17, 22:47', 'Loki: Why do you have 2 numbers, Banner?']
+    splitLine = line.split(' - ') 
     
-    dateTime = splitLine[0] # dateTime = '18/06/17, 22:47'
+    dateTime = splitLine[0] 
 
     if ',' not in dateTime:
         dateTime = dateTime.replace(' ', ', ', 1)
 
-    date, time = dateTime.split(', ')  # date = '18/06/17'; time = '22:47'
+    date, time = dateTime.split(', ')  
     
     if "am" in time:
         time = time.replace("am", "") # time = '11:00 am' becomes time = '11:00 '
