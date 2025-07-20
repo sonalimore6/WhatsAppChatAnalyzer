@@ -35,3 +35,9 @@ Install packages given in requirements.txt (packages need Python 3.11.0).
 pip install -r requirements.txt
 Run the below command to start your local server.
 streamlit run app.py
+
+Screenshots- Show what the tool looks like- ![Alt text](https://github.com/sonalimore6/WhatsAppChatAnalyzer/blob/main/Wp%20SS1.jpg)
+SS2- ![Alt text](https://github.com/sonalimore6/WhatsAppChatAnalyzer/blob/main/WpSS2.jpg)
+SS3- ![Alt text](https://github.com/sonalimore6/WhatsAppChatAnalyzer/blob/main/Wp%20SS3.jpg)
+SS4- ![Alt text](https://github.com/sonalimore6/WhatsAppChatAnalyzer/blob/main/Wp%20SS4.jpg)
+SS5- ![Alt text](https://github.com/sonalimore6/WhatsAppChatAnalyzer/blob/main/Wp%20SS5.jpg)
